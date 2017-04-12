@@ -30,3 +30,4 @@
 30
 mladen2
 only on featureC
+test7
