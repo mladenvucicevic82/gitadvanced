@@ -29,5 +29,4 @@
 29
 30
 mladen2
-only on featureC
-test7
+>>>>>>> 385bedc... treci commit na featureB
