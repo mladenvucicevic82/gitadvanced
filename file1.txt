@@ -29,4 +29,8 @@
 29
 30
 mladen2
+<<<<<<< HEAD
+>>>>>>> 385bedc... treci commit na featureB
+=======
+temp5
 >>>>>>> 385bedc... treci commit na featureB
